@@ -2,6 +2,8 @@ import { createElement, useRef } from "react";
 import { content } from "../Content";
 import emailjs from "@emailjs/browser";
 import toast, { Toaster } from "react-hot-toast";
+import React from 'react';
+
 
 const Contact = () => {
   const { Contact } = content;
