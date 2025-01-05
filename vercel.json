@@ -5,8 +5,5 @@
         "config": {
             "maxLambdaSize": "50mb"
         }
-    }],
-    "scripts": {
-        "build": "npm install && npx vite build"
-    }
+    }]
 }
